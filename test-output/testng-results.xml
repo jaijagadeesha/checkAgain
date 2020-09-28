@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="152" started-at="2020-08-06T20:53:02 IST" finished-at="2020-08-06T20:53:03 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="152" started-at="2020-08-06T20:53:02 IST" finished-at="2020-08-06T20:53:03 IST">
+      <class name="checkBasics.CheckBasicsTestNG">
+        <test-method status="PASS" signature="testBrowser()[pri:0, instance:checkBasics.CheckBasicsTestNG@59e5ddf]" name="testBrowser" duration-ms="22" started-at="2020-08-06T20:53:03 IST" finished-at="2020-08-06T20:53:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBrowser -->
+        <test-method status="PASS" signature="testNc()[pri:0, instance:checkBasics.CheckBasicsTestNG@59e5ddf]" name="testNc" duration-ms="4" started-at="2020-08-06T20:53:03 IST" finished-at="2020-08-06T20:53:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNc -->
+      </class> <!-- checkBasics.CheckBasicsTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
